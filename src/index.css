@@ -1,0 +1,14 @@
+body{
+  background:rgb(1, 12, 112);
+  font-family: sans-serif;
+  padding: 50px;
+}
+
+#container{
+  display:flex;
+  justify-content: flex;
+}
+
+p{
+  font-size: 2em;
+}
